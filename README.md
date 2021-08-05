@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramazansancar.ramazansancar">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ihkaraman.ihkaraman">
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
@@ -9,10 +9,10 @@
 
   <h5 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/karamanismail/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/ihkaraman0" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
-    <code><a href="https://stackoverflow.com/users/16576390/ihkaraman" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
-    <code><a href="https://www.instagram.com/ihkaraman/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
+      <a href="https://www.linkedin.com/in/karamanismail/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://www.hackerrank.com/ihkaraman0" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/hackerrank.png"> HackerRank</a></code>
+    <code><a href="https://stackoverflow.com/users/16576390/ihkaraman" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/stackoverflow.svg"> Stack Overflow</a></code>
+    <code><a href="https://www.instagram.com/ihkaraman/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/instagram.svg"> Instagram</a></code>
   </h5>
   <br>
   <p align="center">
@@ -37,12 +37,12 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
   <p align="center">
-    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
-    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
-    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
-    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/java-original.svg"></code>
-    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
-    <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
+    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/python-original.svg"></code>
+    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/problemSolving.png"></code>
+    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/git-original.svg"></code>
+    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/java-original.svg"></code>
+    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/github.svg"></code>
+    <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/mysql.svg"></code>
   </p>
   <hr>
 
