@@ -41,7 +41,7 @@
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/problemSolving.png"></code>
     <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/git-original.svg"></code>
     <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/java-original.svg"></code>
-    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/github.svg"></code>
+    <code><img title="GitHub" height="25" src="https://github.com/ihkaraman/ihkaraman/blob/main/images/30_github.c0a4dde53e.png"></code>
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/mysql.svg"></code>
   </p>
   <hr>
