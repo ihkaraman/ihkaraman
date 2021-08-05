@@ -15,7 +15,7 @@
     <code><a href="https://www.instagram.com/ihkaraman/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/instagram.svg"> Instagram</a></code>
   </h5>
   <br>
-  <p align="center">
+  <p align="left">
     Hi, I'm İsmail Karaman, AI/ML Engineer from Turkey
     <br>
     🔭 I’m currently working at Invicti Security
