@@ -28,7 +28,7 @@
     <br>
     📚 I’m currently learning DL/Pytorch/Tensorflow
     <br>
-    💬 Ask me anything about from linkedin
+    💬 Ask me anything about via mail, linkedin etc.
     <br>
     📫 How to reach me: <a href="mailto: ihkaraman0@gmail.com">ihkaraman0@gmail.com</a>
   </p>
