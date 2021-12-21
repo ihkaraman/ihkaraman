@@ -14,7 +14,7 @@
 <a title="Medium" href="https://medium.com/@ihkaraman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ihkaraman0" height="30" width="40" /></a>
 <a title="HackerRank" href="https://www.hackerrank.com/ihkaraman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ihkaraman0" height="30" width="40" /></a>
 </p>
-  <br>
+
   <p align="left">
 
     🔭 I’m currently working on **privacy policy classification**
@@ -29,13 +29,12 @@
 
   <hr>
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-  <hr>
   
-  <p align="left"> 
+  <p align="center"> 
   <a title="Problem Solving" href="https://linkedin.com/in/karamanismail/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/problemSolving.png" alt="problem-solving" width="40" height="40"/> </a> 
   <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a title="scikit-learn" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a title="TensorFlow" href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <a title="TensorFlow" href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a title="PyTorch" href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a title="Pandas" href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a title="AWS" href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
