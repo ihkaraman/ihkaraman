@@ -8,16 +8,15 @@
   </h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/karamanismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karamanismail" height="30" width="40" /></a>
-<a href="https://kaggle.com/ihkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ihkaraman" height="30" width="40" /></a>
-<a href="https://instagram.com/ihkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihkaraman" height="30" width="40" /></a>
-<a href="https://medium.com/@ihkaraman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ihkaraman0" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ihkaraman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ihkaraman0" height="30" width="40" /></a>
+<a title="Linkedin" href="https://linkedin.com/in/karamanismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karamanismail" height="30" width="40" /></a>
+<a title="Kaggle" href="https://kaggle.com/ihkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ihkaraman" height="30" width="40" /></a>
+<a title="instagram" href="https://instagram.com/ihkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihkaraman" height="30" width="40" /></a>
+<a title="Medium" href="https://medium.com/@ihkaraman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ihkaraman0" height="30" width="40" /></a>
+<a title="HackerRank" href="https://www.hackerrank.com/ihkaraman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ihkaraman0" height="30" width="40" /></a>
 </p>
   <br>
   <p align="left">
 
-    <br>
     🔭 I’m currently working on **privacy policy classification**
     🎓 Graduated from **TOBB Etu - Industrial Engineering**
     💻 Working @ **Invicti Security**
@@ -32,7 +31,7 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <hr>
   
-  <p align="center"> 
+  <p align="left"> 
   <a title="Problem Solving" href="https://linkedin.com/in/karamanismail/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ihkaraman/ihkaraman/main/images/problemSolving.png" alt="problem-solving" width="40" height="40"/> </a> 
   <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a title="scikit-learn" href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
