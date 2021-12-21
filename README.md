@@ -13,7 +13,8 @@
 <a title="instagram" href="https://instagram.com/ihkaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihkaraman" height="30" width="40" /></a>
 <a title="Medium" href="https://medium.com/@ihkaraman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ihkaraman0" height="30" width="40" /></a>
 <a title="HackerRank" href="https://www.hackerrank.com/ihkaraman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ihkaraman0" height="30" width="40" /></a>
-</p>
+
+  
 
   <p align="left">
 
@@ -25,7 +26,6 @@
     📚 Currently learning PyTorch/Tensorflow
     💬 Ask me anything via email, linkedin etc.
     📫 How to reach me: <a href="mailto: ihkaraman0@gmail.com">ihkaraman0@gmail.com</a>
-  </p>
 
   <hr>
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
