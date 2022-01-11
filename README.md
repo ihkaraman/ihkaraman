@@ -21,13 +21,13 @@
   <p align="left">
 
     🔭 I’m currently working on privacy policy classification
-    💻 Working @ *Invicti Security*
-    🔬 Studying MS @ *METU in Industrial Engineering*
-    🎓 Graduated from *TOBB Etu - Industrial Engineering*
-    📄 Know about my experiences [linkedin.com/in/karamanismail/](linkedin.com/in/karamanismail/)
+    💻 Working @ Invicti Security
+    🔬 Studying MS @ METU in Industrial Engineering
+    🎓 Graduated from TOBB Etu - Industrial Engineering
+    📄 Know about my experiences linkedin.com/in/karamanismail/
     📚 Currently learning PyTorch/Tensorflow
     💬 Ask me anything via email, linkedin etc.
-    📫 How to reach me: <a href="mailto: ihkaraman0@gmail.com">ihkaraman0@gmail.com</a>
+    📫 How to reach me: ihkaraman0@gmail.com
 
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   
