@@ -20,10 +20,10 @@
 
   <p align="left">
 
-    🔭 I’m currently working on **privacy policy classification**
-    🎓 Graduated from **TOBB Etu - Industrial Engineering**
-    💻 Working @ **Invicti Security**
-    🔬 Studying MS @ **METU in Industrial Engineering**
+    🔭 I’m currently working on privacy policy classification
+    💻 Working @ *Invicti Security*
+    🔬 Studying MS @ *METU in Industrial Engineering*
+    🎓 Graduated from *TOBB Etu - Industrial Engineering*
     📄 Know about my experiences [linkedin.com/in/karamanismail/](linkedin.com/in/karamanismail/)
     📚 Currently learning PyTorch/Tensorflow
     💬 Ask me anything via email, linkedin etc.
