@@ -20,7 +20,7 @@
 
   <p align="left">
 
-    🔭 I’m currently working on privacy policy classification
+    🔭 I’m currently working on 'A Similarity-Based Oversampling Algorithm for Multi-Label Imbalanced Text Data'.
     💻 Working @ Invicti Security
     🔬 Studying MS @ METU in Industrial Engineering
     🎓 Graduated from TOBB Etu - Industrial Engineering
